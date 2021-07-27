@@ -1,0 +1,14 @@
+---
+layout: home
+---
+
+{{ content }}
+
+<h2>Projects</h2>
+
+{% for project in site.projects %}
+  <a href="{{ project.url | relative_url }}">
+    <h2>{{ project.name }}</h2>
+  </a>
+  <p>{{ project.description | markdownify }}</p>
+{% endfor %}
