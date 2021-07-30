@@ -35,8 +35,6 @@ collections:
       - snote.md
       - get_snote.md
     output: true
-  download:
-    output: true
     
 
 # Exclude from processing.

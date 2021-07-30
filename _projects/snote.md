@@ -24,6 +24,10 @@ The project supports currently the following languages:
 * English
 * German
 
+## The .snote fileformat
+... is same as .zip! It's just a renamed zip archive. It contains a file with all the notes and a compressed attachments folder. All attachments like images are in there, with a unique name. In the note file are all the notes, serialized with JSON.
+Every note has name and type key. But the different types have some special keys only for the type, for example the checklist has the entrys key that stores all the entrys in a JSON array.
+
 ## Background
 I started this project to have an app my voice assistant can interact with. It's also my first Android Studio project. I have already made some apps for Android with App-Inventor. So far, this is my biggest project, I've never produced that much code! I started this project with Java, but the I decided to learn Kotlin. Now I always make use of Kotlin for new classes and activities.
 
