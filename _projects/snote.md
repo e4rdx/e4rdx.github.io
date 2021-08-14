@@ -29,7 +29,7 @@ The project supports currently the following languages:
 Every note has name and type key. But the different types have some special keys only for the type, for example the checklist has the entrys key that stores all the entrys in a JSON array.
 
 ## Background
-I started this project to have an app my voice assistant can interact with. It's also my first Android Studio project. I have already made some apps for Android with App-Inventor. So far, this is my biggest project, I've never produced that much code! I started this project with Java, but the I decided to learn Kotlin. Now I always make use of Kotlin for new classes and activities.
+I started this project to have an app my voice assistant can interact with. It's also my first Android Studio project. I have already made some apps for Android with App-Inventor. So far, this is my biggest project, I've never produced that much code! I started this project with Java, but then I decided to learn Kotlin. Now I always make use of Kotlin for new classes and activities.
 
 ## Gallery
 <img src="/assets/snote_SideMenu.jpg" alt="drawing" width="300"/>
