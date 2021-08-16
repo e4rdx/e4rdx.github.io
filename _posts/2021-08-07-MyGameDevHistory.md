@@ -2,6 +2,8 @@
 layout: post
 title:  My GameDev history
 date:   2021-08-07 19:33:42 +0200
+show_excerpt: yes
+excerpt: An overview of the games I've created so far
 categories: GameDev
 ---
 
@@ -17,7 +19,12 @@ But there was a player with movement and a shooting system:
 There was also a small main menu I was very proud of.\\
 List of features:
 * AI spawner
-* TODO: Finish list
+* AI following and attacking player
+* Shooting system for player to attack AI
+* Health and regeneration system for player
+* Ammo and reloading
+* Player and AI death
+* Respawn
 
 # Defend the town
 Lets move on to the next fail. After some work on the shooter, I was bored of it. So I had a new idea: Place some towers on a map and at the end a small town. Then, spawn waves of enemys and let the player defend the towers, like a third-person tower defence game:
@@ -32,10 +39,23 @@ Now, something I'm very proud of: A skill tree:
 <img src="/assets/TownDefender/Skilltree.jpg" alt="image"/>
 You are able to unlock those things with skillpoints! There is a system for saving and loading the skilltree!\\
 List of features:
-* TODO: Finish list
+* Main menu
+* Pause menu
+* Settings for window size
+* Skilltree(One Character to unlock)
+* Two playable characters, only one that can attack
+* AI wave spawner
+* Enemys walking from tower to tower to destroy it
+* Two types of enemys
+* Enemys with gun shooting at player or building
+* Close combat enemys only attacking buildings
+* Game over / Game won
 
 # Multiplayer shooter
 This is the project which became Clone League later on, which is my greatest project so far. So it deserves its own blog entry!
 
+# LibGDX
+I had a short look at this and wanted to create a SpaceInvader type of game for mobile. When I got a controllable spaceship I stopped the development because I foud out about Godot. If you want to create games with Java or Kotlin I can definitly recommend LibGDX!
+
 # Restart with Godot Engine
-TODO: Continue here
+After stopping the development of CL I did not much about GameDev for a long time, until I found out about Godot Engine. One day I got a video suggestion from youtube for video about Godot and when I saw it, I immediately loved the engine. In my opinion it is probably one of the best choices for creating 2D games. Now I'm currently working on InfinityShapes.

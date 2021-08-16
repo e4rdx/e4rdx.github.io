@@ -16,7 +16,7 @@ Notebooks support different types of notes:
 * Link - A single link that will be displayed with Android WebView
 * Image from camera - Take an image with your camera and store it in your notebook
 
-There's also a tag system that allows you to add tags to your notes(currently only checklists support this). Then you can filter your notes by tags.\\
+There's also a tag system that allows you to add tags to your notes. Then you can filter your notes by tags.\\
 In one of the next updates, tasks will be coming. To see planned features, checkout [the project on github](https://github.com/e4rdx/sNote/projects).
 
 ## Translations

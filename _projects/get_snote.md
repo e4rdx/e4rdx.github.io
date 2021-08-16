@@ -8,6 +8,18 @@ order: 1
 For more information about the app, visit [this website]({{ site.url }}/projects/snote).
 Here is a list of the releases with additional information about the changes. The release name will redirect to the release on github.
 
+# [Version 1.3](https://github.com/e4rdx/sNote/releases/tag/v1.3)
+Download [sNote 1.3](https://github.com/e4rdx/sNote/releases/download/v1.3/sNote1.3.apk)\\
+**Tags are released!**
+* Tag editors for all note types
+* Filter notes by tags in the tag menu
+* If you add a new tag, only tags created in the tag menu are listed
+
+Other changes in this version:
+* The app saves now if the dropdown of a note is open, but only as long as you don't open the note to edit it!
+* If you delete an entry in a checklist and the snackbar is still there, you can save the note without saving the deleted entry
+* If an external notebook is not accessible for some reason, it's just removed from the notebook list and the app doesn't crash anymore!
+
 # [Version 1.2](https://github.com/e4rdx/sNote/releases/tag/1.2)
 Download [sNote 1.2](https://github.com/e4rdx/sNote/releases/download/1.2/sNote1.2.apk)\\
 Changes in this version:
